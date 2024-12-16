@@ -25,7 +25,7 @@ export default function Home() {
           <h2>How it works</h2>
           <p>
             NextGeneration Food is a community-driven platform where food
-            enthusiasts can share their favorite recipes with the world. It's
+            enthusiasts can share their favorite recipes with the world. It is
             the perfect place to discover new dishes and connect with fellow
             food lovers.
           </p>
@@ -39,7 +39,7 @@ export default function Home() {
           <h2>Why NextGeneration Food?</h2>
           <p>
             NextGeneration Food is a platform where food enthusiasts can share
-            their favorite recipes with the world. It's a hub for discovering
+            their favorite recipes with the world. It is a hub for discovering
             new dishes and connecting with fellow food lovers
           </p>
           <p>
